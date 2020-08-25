@@ -16,3 +16,4 @@ In this repository there are following folders:
 
 7. Wine Quality - on a given dataset we have to predict a quality of wine (categories from 1 to 8). I have used all the possible supervised models such linear regression, all types of classifier models, also unsupervised such as K-Means Clusters including PCA.
 
+8. Recommender system - first attempt of building a recommender system based on a given dataset. I have used vectors correlations and knn algorithm to recommend further books for reading.
